@@ -1,0 +1,33 @@
+.header{
+	min-height: 80px;
+	background-color: #575757;
+	color: #F6F6F6;
+	text-align: center;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	width: 30%;
+	min-height: 150px;
+	background-color: #00FFFF;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+}
+.contact{
+	width: 70%;
+	min-height: 150px;
+	background-color: #83A3BD;
+	font-size: 20px;
+	font-weight: bold;
+	float: right;
+}
+.footer{
+	min-height: 80px;
+	background-color: #575757;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
